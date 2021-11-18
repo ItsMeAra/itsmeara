@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/itsmeara" target="blank"><img src="https://img.shields.io/twitter/follow/itsmeara?logo=twitter&style=for-the-badge" alt="itsmeara" /></a> </p>
 
-- 🌱 I’m currently learning **Vue, 11ty, Astro**
-
-- 👨‍💻 All of my projects are available at [https://itsmeara.com](https://itsmeara.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/itsmeara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="itsmeara" height="30" width="40" /></a>
