@@ -1,6 +1,6 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsmeara&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeara" /> </p>
-<h1 align="center">Hi 👋, I'm Ara</h1>
-<h3 align="center">Frontend developer from Los Angeles, CA</h3>
+<p> <img src="https://komarev.com/ghpvc/?username=itsmeara&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeara" /> </p>
+<h1>Hi 👋, I'm Ara</h1>
+<h3>Frontend developer from Los Angeles, CA</h3>
 
 
 
