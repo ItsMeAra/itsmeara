@@ -1,5 +1,5 @@
 <p> <img src="https://komarev.com/ghpvc/?username=itsmeara&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeara" /> </p>
-<h1>Hi 👋, I'm Ara</h1>
+<h1>Ara Abcarians</h1>
 <h3>Frontend developer from Los Angeles, CA</h3>
 
 
