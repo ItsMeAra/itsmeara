@@ -1,6 +1,6 @@
 <p> <img src="https://komarev.com/ghpvc/?username=itsmeara&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeara" /> </p>
 <h1>Ara Abcarians</h1>
-<h3>Sr. Web Developer at Kandji. Previously at Bluebeam, Media Temple & Huge. Lover of pizza, art, sneakers, my dog, and the Oxford comma.</h3>
+<h3>Sr. Web Developer at Kandji. Lover of pizza, art, sneakers, my dog, and the Oxford comma.</h3>
 
 
 
