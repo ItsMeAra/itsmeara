@@ -5,7 +5,6 @@
 <h1>Ara Abcarians</h1>
 <p>Jamstack enthusiast. Dog dad.</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeara&show_icons=true)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
