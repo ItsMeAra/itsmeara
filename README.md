@@ -3,7 +3,7 @@
 </p>
 
 <h1>Ara Abcarians</h1>
-<p>Senior Web Developer at Kandji. Jamstack enthusiast. Dog dad.</p>
+<p>Jamstack enthusiast. Dog dad.</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeara&show_icons=true)
 
