@@ -9,8 +9,8 @@
 <h2 align="left">Connect with me:</h2>
 <ul>
   <li><a href="https://codepen.io/itsmeara" target="blank">Codepen</a></li>
-  <li><a href="https://twitter.com/itsmeara" target="blank">Twitter</a></li>
   <li><a href="https://mastodon.social/@itsmeara" target="blank">Mastodon</a></li>
+  <li><a href="https://twitter.com/itsmeara" target="blank">Twitter</a></li>
   <li><a href="https://linkedin.com/in/arala" target="blank">LinkedIn</a></li>
 </ul>
 
