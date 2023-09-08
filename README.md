@@ -3,7 +3,7 @@
 </p>
 
 <h1>Ara Abcarians</h1>
-<p>I've spent the last 15 years building delightful interactive experiences for the web. My happy place is at the intersection of UI Design & Development. I'm passionate about the Jamstack, performance, usability, A11y, and design systems.</p>
+<p>I've spent the last 15 years building delightful interactive experiences for the web. My happy place is at the intersection of UI Design & Development. I'm passionate about performance, usability, A11y, and design systems.</p>
 
 
 <h2 align="left">Connect with me:</h2>
